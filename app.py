@@ -4,5 +4,6 @@ def hello():
     print("Hello from feature/hello")
 
 def world():
-    print("World from feature/world")
+    print("World (fixed in hotfix 1.0.1)")
+
 
